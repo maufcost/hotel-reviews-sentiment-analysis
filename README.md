@@ -13,5 +13,5 @@ About the included files:
 
 Notes:
 
-   The raw and preprocessed datasets are not included in this repository due to copyright/licensing issues.
+   The raw and preprocessed datasets are not included in this repository due to copyright/licensing issues. You can either import the sentiment module or load the pickled classifier object into your scripts.
 
