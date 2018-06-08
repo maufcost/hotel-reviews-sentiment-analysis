@@ -9,7 +9,7 @@ About the included files:
 
    The 'sentiment_mod.py' script is responsible for using the pickled files (features and trained Naive Bayes classifier) and contains the 'get_sentiment_from(review)' function that returns the classifier prediction based on user input.
 
-   The 'testing_mod.py' script tests the reliability of the classifier (around ~90.20%). You can use the trained classifier by simply importing the 'sentinment_mod.py' module into your Python script and using its 'get_sentiment_from(review)' function to get the sentiment analysis for your own reviews! 
+   The 'testing_mod.py' script tests the reliability of the classifier (around ~90.20%). You can use the trained classifier by simply importing the 'sentiment_mod.py' module into your Python script and using its 'get_sentiment_from(review)' function to get the sentiment analysis for your own reviews! 
 
 Notes:
 
